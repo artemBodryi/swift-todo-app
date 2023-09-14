@@ -26,28 +26,28 @@ These instructions will help you get a copy of the project up and running on you
 
 2. Open the project in Xcode:
 
-  cd todo-app  
+     cd todo-app  
 
-  open TodoApp.xcodeproj
+     open TodoApp.xcodeproj
 
 3. Build and run the app in Xcode on your simulator or device.
 
 
-Usage
+### Usage
 
-* Add a new task by tapping the "+" button.
-* Edit a task by tapping on it.
-* Mark a task as complete by tapping the checkbox.
-* Delete a task by swiping left and tapping "Delete."
+   * Add a new task by tapping the "+" button.
+   * Edit a task by tapping on it.
+   * Mark a task as complete by tapping the checkbox.
+   * Delete a task by swiping left and tapping "Delete."
 
 
-Contributing
+### Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature: git checkout -b feature-name
-3. Commit your changes: git commit -m 'Added a new feature'
-4. Push to your branch: git push origin feature-name
-5. Submit a pull request.
+   1. Fork the repository.
+   2. Create a new branch for your feature: git checkout -b feature-name
+   3. Commit your changes: git commit -m 'Added a new feature'
+   4. Push to your branch: git push origin feature-name
+   5. Submit a pull request.
 
