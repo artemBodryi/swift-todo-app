@@ -26,7 +26,8 @@ These instructions will help you get a copy of the project up and running on you
 
 2. Open the project in Xcode:
 
-  cd todo-app
+  cd todo-app  
+
   open TodoApp.xcodeproj
 
 3. Build and run the app in Xcode on your simulator or device.
